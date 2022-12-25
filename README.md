@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Pontos Turísticos</h1>
-Um lugar na web para guardar seus links e anotações! 
+Um lugar na web para guardar seus pontos turísticos links e anotações! 
 <br> <br>
 
 ### Tech Stack
